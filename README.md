@@ -1,4 +1,4 @@
-It is a project of Data Analysis with Python or you can say, Data Science with Python on the "Cars" Data set.
+It is a project of Data Analysis with Python on the "Cars" Data set.
 
 The commands that we used in this project :
 
